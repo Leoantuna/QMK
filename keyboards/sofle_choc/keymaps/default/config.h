@@ -14,6 +14,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #pragma once
+#define MASTER_LEFT
+#define SOFT_SERIAL_PIN D2
 
 // Enabling this option changes the startup behavior to listen for an
 // active USB communication to delegate which part is master and which
